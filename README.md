@@ -1,5 +1,5 @@
 <!-- PROFILE HEADER -->
-<h1 align="center">Hi 👋, I'm <Klate Studio></h1>
+<h1 align="center">Hi 👋, I'm <YOUR NAME></h1>
 <h3 align="center">✨ Aspiring Game Developer | Unity Enthusiast ✨</h3>
 
 ---
