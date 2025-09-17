@@ -34,7 +34,7 @@
 ## 🚧 Current Projects
 | Game | Stage | Description |
 |------|------|------------|
-| **Anomaly Express** | 🛠 Pre-Alpha | Mystery-horror game set inside a surreal metro train |
+| **Stay Focused** | 🛠 Pre-Alpha | Mystery-horror game set inside a room |
 | **Unity Experiments** | 🔬 Ongoing | Mini prototypes: shaders, mechanics, and gameplay tests |
 
 ---
