@@ -1,50 +1,57 @@
-<!-- PROFILE HEADER -->
-<h1 align="center">Hi 👋, I'm <YOUR NAME></h1>
-<h3 align="center">✨ Aspiring Game Developer | Unity Enthusiast ✨</h3>
+<!-- 🌌 PROFILE HEADER -->
+<h1 align="center">👋 Hey, I'm Klate Studio</h1>
+<h3 align="center">Indie Game Developer • Unity Creator • Horror Enthusiast</h3>
 
----
-
-### 👩‍💻 About Me
-- 🎮 **New to Game Dev** – learning & building with **Unity + C#**
-- 🌱 Currently exploring **indie horror & puzzle mechanics**
-- 🛠 Planning to share my first playable builds here on GitHub
-- 💡 Goals: create immersive experiences & contribute to open-source tools for game dev
-
----
-
-### 🧩 Tech & Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=unity,cs,blender,git,github" />
-</p>
-
----
-
-### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=<YOUR-USERNAME>&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=<YOUR-USERNAME>&layout=compact&theme=tokyonight" height="150"/>
+  <img src="https://komarev.com/ghpvc/?username=klatestudio&style=flat-square&color=blue" alt="Profile views"/>
 </p>
 
 ---
 
-### 🚧 Current Projects
-| Game | Status | Description |
-|------|-------|------------|
-| **Anomaly Express** | 🛠 In Progress | A 3D indie horror set inside a mysterious train |
-| *More coming soon…* | | |
+## 🎮 About Me
+- 🕹 **Solo Indie Dev** building atmospheric and psychological horror experiences  
+- 💻 Primary Stack: **Unity + C#**, with touches of **Blender** for custom assets  
+- 🚀 Currently crafting **Anomaly Express**, a 3D suspense-horror adventure  
+- 🧩 Always learning new mechanics, shaders, and optimization tricks
 
 ---
 
-### 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/<your-link>)
-[![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://<your-itch-page>)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](<your-website>)
+## 🧰 Tools & Tech
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=unity,cs,blender,git,github,vscode" />
+</p>
 
 ---
 
-> *“The best way to predict the future is to create it.”*
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=klatestudio&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=klatestudio&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>
 
-<!-- You can add a fun GIF or banner below -->
+---
+
+## 🚧 Current Projects
+| Game | Stage | Description |
+|------|------|------------|
+| **Anomaly Express** | 🛠 Pre-Alpha | Mystery-horror game set inside a surreal metro train |
+| **Unity Experiments** | 🔬 Ongoing | Mini prototypes: shaders, mechanics, and gameplay tests |
+
+---
+
+## 🌐 Connect
+<p align="center">
+  <a href="https://klatestudio.itch.io"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white"/></a>
+  <a href="mailto:klatestudio@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/klatestudio"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center">
+  <em>“Creating fear you can feel.”</em>
+</p>
+
 <p align="center">
   <img src="https://media.giphy.com/media/3o7aCTPPm4OHfRLSH6/giphy.gif" width="400"/>
 </p>
