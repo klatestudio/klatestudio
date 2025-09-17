@@ -23,10 +23,18 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats (primary + fallback)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=klatestudio&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=klatestudio&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+  <!-- Primary (beautiful, but external service can sometimes fail) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=klatestudio&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="KlateStudio GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=klatestudio&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="KlateStudio Top Languages"/>
+</p>
+
+<p align="center">
+  <!-- Fallback (stable badges if the above images fail) -->
+  <img src="https://img.shields.io/github/followers/klatestudio?label=Followers&style=social" alt="Followers"/>
+  <img src="https://img.shields.io/badge/Top_Langs-Unity%20%7C%20C%23-blue?style=for-the-badge" alt="Top languages"/>
+  <img src="https://img.shields.io/badge/Status-Open%20for%20Collab-green?style=for-the-badge" alt="Status"/>
 </p>
 
 ---
