@@ -44,7 +44,7 @@
   <em>“Creating fear you can feel.”</em>
 </p>
 
-<!-- 🔥 Animated GIF Banner -->
+
 <p align="center">
-  <img src="https://media.giphy.com/media/LXr4IgnD4V8q4Febb5/giphy.gif" width="400" alt="Horror vibe animation"/>
+  <img src="./assets/banner.gif" width="400" alt="Horror vibe animation"/>
 </p>
