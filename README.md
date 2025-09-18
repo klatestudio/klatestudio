@@ -11,7 +11,7 @@
 ## 🎮 About Me
 - 🕹 **Solo Indie Dev** building atmospheric and psychological horror experiences  
 - 💻 Primary Stack: **Unity + C#**, with touches of **Blender** for custom assets  
-- 🚀 Currently crafting **Anomaly Express**, a 3D suspense-horror adventure  
+- 🚀 Currently crafting **Stay Focused**, a 3D suspense-horror adventure  
 - 🧩 Always learning new mechanics, shaders, and optimization tricks
 
 ---
@@ -44,6 +44,7 @@
   <em>“Creating fear you can feel.”</em>
 </p>
 
+<!-- 🔥 Animated GIF Banner -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aCTPPm4OHfRLSH6/giphy.gif" width="400"/>
+  <img src="https://media.giphy.com/media/LXr4IgnD4V8q4Febb5/giphy.gif" width="400" alt="Horror vibe animation"/>
 </p>
